@@ -1,0 +1,71 @@
+.ustbar{
+    display: flex;
+    justify-content: center;
+    height: 13.5vh;
+    text-align: center;
+    background-color: rgb(6, 76, 219);
+    color: white
+    
+}
+.ustbar:hover {
+    background-color: rgb(22, 66, 153);
+    color: black;
+}
+img{
+    align-items: left;
+}
+h2{
+    width: 100%;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+}
+.arabar{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(6, 59, 163);
+    color: white;
+}
+a{
+    text-align: center;
+    width: 100%;
+    border-bottom: none;
+    color: white;
+    font-size: 23px;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    
+}
+.table-container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+table td {
+    padding: 10px;
+    text-align: center;
+}
+table td th {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+body{
+    background-color: white
+}
+#episodeContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#episodeContainer img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
